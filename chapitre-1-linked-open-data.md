@@ -31,16 +31,81 @@ RDF : Resource Data Framework
 
 Avant d'expliquer ce qu'est le RDF, pouvez-vous me dire quelle est la structure de phrase verbale complète la plus commune ? Sujet-Verbe-COD. C'est un peu de cette structure qu'est partie le concept de RDF où les choses sont structurées en sujet prédicat objet.
 
-**Slide** 
+**Ecrire au tableau** 
 - Sénèque a écrit Les Lettres à Lucilius
 - Les lettres à Lucilius sont appelées Ad Lucilium
 
 **Faire un exemple ensemble**
 
-Le problème de ces exemples c'est qu'ils signifient quelque chose pour nous, personnes parlant le Français. A votre avis, que peut-on faire pour aider la machine à comprendre cela ?
+Le problème de ces exemples c'est qu'ils signifient quelque chose pour nous, personnes parlant le français. A votre avis, que peut-on faire pour aider la machine à comprendre cela ?
 
 La première chose, c'est évidemment d'utiliser un référentiel. Là pour le moment, on a 2 objets distincts : Sénèque et Les Lettres à Lucilius. Étant donné que l'on a à faire à des objets traditionnels des catalogues, il s'avère que des identifiants ont déjà été fournis : il s'agit des identifiants du VIAF (Virtual International Authority File). 
 
 En l'occurrence, si on cherche Sénèque sur le VIAF on tombe sur cette page [https://viaf.org/viaf/90637919/#Seneca,_Lucius_Annaeus,_approximately_4_B.C.-65_A.D](Page) . Que pouvez-vous dire sur cette page ?
-- Il y a des traductions du nom de l'auteur
 
+- Il y a des traductions du nom de l'auteur
+- Il y a des liens vers les oeuvres
+
+Du coup, si on cherche Ad Lucilium, on trouve aussi la page https://viaf.org/viaf/184199909/#Seneca,_Lucius_Annaeus,_approximately_4_B.C.-65_A.D._|_Epistulae_morales_ad_Lucilium .
+
+On a en fait avec ces deux pages deux identifiants : https://viaf.org/viaf/90637919 et https://viaf.org/viaf/184199909 . Maintenant, on peut écrire :
+
+- https://viaf.org/viaf/90637919 a écrit https://viaf.org/viaf/184199909 
+- https://viaf.org/viaf/184199909 s'appelle Ad Lucilium
+
+C'est bien, mais on est pas encore très clair pour une machine. Typiquement, une machine est habituée à quelque chose comme 
+`x=w`. Et c'est ce qu'on va lui fournir. Car "=", ce n'est qu'un prédicat parmi tant d'autres.
+
+C'est dans le cadre de la traduction des prédicats que s'insère les ontologies. Une ontologie, un vocabulaire, c'est un ensemble de verbes et d'objets qui permettent de compléter, de manière commune, ces phrases qui définissent nos objets. Par exemple :
+http://purl.org/dc/elements/1.1/creator
+
+Ainsi on aura pour la phrase :
+
+https://viaf.org/viaf/90637919 http://purl.org/dc/elements/1.1/creator https://viaf.org/viaf/184199909 
+
+Mais vu qu'on décrit un nom pour "Ad Lucilium", on va simplement utiliser une chaîne de charactère :
+
+https://viaf.org/viaf/184199909 http://purl.org/dc/elements/1.1/title "Ad Lucilium"
+
+Ces éléments sont des triplets, et c'est ce qui correspond à ce que l'on entend en général par RDF.
+
+## Quelques ontologies et référentiels
+
+### DC
+Une ontologie produite pour les catalogues par la Dublin Core Initiative.
+
+http://dublincore.org/documents/dcmi-namespace/ 
+
+### FOAF
+Une ontologie produite pour les relations humaines et la description de personnes vivantes :
+
+http://xmlns.com/foaf/0.1/
+
+### SAWS
+Une ontologie produite pour décrire des sources anciennes 
+
+http://purl.org/saws/ontology
+
+### SNAP
+
+Une ontologie pour la prosopographie ancienne 
+
+http://snap.dighum.kcl.ac.uk/img/OwlVizImage.png et http://data.snapdrgn.net/ontology/snap
+
+### DBPedia : la ressource pour les objets
+
+http://dbpedia.org/class/Book
+
+### Pleiades
+
+Un référentiel de lieux : http://pleiades.stoa.org
+
+### Exercice 
+
+Prendre un auteur parmi ceux proposés
+Dans un fichier excel, ordonner ses données sur les personnes avec le sujet à gauche. Exemple
+
+| Sujet | Verbe | Objet | Langue (Si nécessaire) |
+| ------- | ------- | ------- | ----------------------------- |
+| https://viaf.org/viaf/90637919 | http://purl.org/dc/elements/1.1/creator |  https://viaf.org/viaf/184199909 | |
+| https://viaf.org/viaf/90637919 | http://xmlns.com/foaf/0.1/ | "Sénèque" | Francais |
