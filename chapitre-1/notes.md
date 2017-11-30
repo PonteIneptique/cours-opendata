@@ -143,8 +143,6 @@ Référentiel de lieux modernes : http://www.geonames.org/
 Prendre un auteur parmi ceux proposés
 Dans un fichier excel, ordonner ses données sur les personnes avec le sujet à gauche. Exemple
 
-*Montrer l'exemple dans libreoffice* 
-
 | Sujet | Verbe | Objet | Langue (Si nécessaire) |
 | ------- | ------- | ------- | ----------------------------- |
 | https://viaf.org/viaf/90637919 | http://purl.org/dc/elements/1.1/creator |  https://viaf.org/viaf/184199909 | |
