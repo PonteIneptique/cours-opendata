@@ -1,0 +1,902 @@
+id	label	relation	in	label_relation	label_in
+wd:Q81685	François Mauriac	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q93897	Jacques Boulenger	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q123921	Alfred Métraux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q124245	Jean-François Bergier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q129155	Roger Martin du Gard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q129228	René Girard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q137599	Marianne Mulon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q153622	Antoine Dareste de La Chavanne	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q199985	Arthur de La Borderie	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q207359	Georges Bataille	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q221775	Norbert Dufourcq	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q272189	Régine Pernoud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q286485	Léon Gautier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q287175	Éphraïm Mikhaël	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q318468	Abel Lefranc	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q328607	Auguste Poulet-Malassis	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q334970	José-Maria de Heredia	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q340222	Achille Jubinal	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q365708	Adolphe Cohn	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q384651	Ernest Langlois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q447581	Marcel Aubert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q462364	Gustave Kahn	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q481453	Léopold Delisle	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q514741	Gaston Paris	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q517743	André Chamson	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q541418	Alfred Morel-Fatio	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q549841	Jean Favier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q550206	Joseph Calmette	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q551316	Henri Brincard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q568626	Augustin Cochin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q586624	Antoine Le Roux de Lincy	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q587038	Antoine Thomas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q634282	Louis Halphen	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q650194	Ngo Dinh Nhu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q663533	Ferdinand Chalandon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q664914	Jacques Monfrin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q673718	Rémi Mathis	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q700638	Eugène Burnouf	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q719696	Ferdinand Lot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q743493	Siméon Luce	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q766823	Auguste Castan	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q830540	Georges Huisman	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q867952	Henri Stein	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q922350	Henri-Jean Martin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q956253	Gabriel Hanotaux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q978749	Henri d'Arbois de Jubainville	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1004154	Frédéric Barbier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1063760	Charles Bonnier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1063803	Charles Braibant	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1080053	Louis Finot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1102766	Clovis Brunel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1216036	Paul Viollet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1219531	Pierre Aubry	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1223382	Maurice Le Bègue de Germiny	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1245518	Paul Meyer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1285720	Edmond Pognon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1292864	Edward Le Glay	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1330059	Jacques Normand	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1338383	Emmanuel Poulle	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1441778	Francis Wey	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1445752	Frantz Funck-Brentano	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1451057	François Guessard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1490053	Jean-Claude Schmitt	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1495297	Jules Guiffrey	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1495584	Gaston Monod	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1507000	George Flahiff	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1531112	Robert Bossuat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1556706	Gustave Fallot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1684718	Jean-Charles Roman d'Amat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1685807	Jean Rychner	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1749718	Anatole de Barthélemy	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1870426	Lorédan Larchey	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1879402	Léon Clédat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1892960	Marcel Bouteron	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q1960293	Émile Campardon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2087636	Philippe Lauer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2093274	Pierre Champion	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2134088	Raymond Cazelles	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2156245	Robert-Henri Bautier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2206419	Louis Courajod	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2356118	Robert Fossier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2364458	René Poupardin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2375072	Jean Cavignac	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2375867	Pierre Verlet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2376231	Jacques Perot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2377429	Maxime Préaud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2391269	Édouard Pommier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2399285	Georges de Manteyer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2408040	Jules Quicherat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2426092	François Lesure	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2497623	Michel Pastoureau	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2568062	Paul-Albert Février	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2606667	Charles-Victor Langlois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2606700	Ramon d'Abadal i de Vinyals	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2636438	Alain Guerreau	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2798870	Maurice Clément	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2824916	Adolphe Tardif	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2825116	Adrien Arcelin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2825127	Adrien Berbrugger	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2826973	Agnès Callu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2829780	Alain Erlande-Brandenburg	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2830378	Alain de Boüard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2830756	Alban Cerisier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2831266	Albert Isnard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2831331	Albert Lecoy de La Marche	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2831403	Albert Mirot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2831473	Albert Poirot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2831896	Albin de Chevallet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2833847	Alexandre Maral	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2834077	Alexandre Teulet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2835035	Alfred Coville	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2835114	Alfred Fierro	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2840798	Amable Floquet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2844708	Amédée Tardieu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2845613	Anatole de Montaiglon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2847038	André-Ferdinand Hérold	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2847164	André Artonne	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2847277	André Berthier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2847336	André Borel d'Hauterive	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2848766	André Vernet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2850174	Anita Guerreau-Jalabert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2850820	Anne-Marie Bertrand	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2851000	Anne Brenon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2854063	Antoine Héron de Villefosse	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2855774	François Avril	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2861197	Ariane James-Sarazin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2861952	Armand Rendu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2862434	Camille Pelletan	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2865116	Arthur Giry	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2865206	Arthur Loth	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2868977	Athanase Cucheval-Clarigny	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2871228	Auguste Himly	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2871321	Auguste Molinier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2871430	Auguste Vallet de Viriville	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2896092	Benjamin Guérard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2897484	Bernard Barbiche	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2898660	Camille Enlart	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2898807	Bernard de Gaulejac	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2899549	Bertrand Gille	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2926731	Bruno Delmas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2926789	Bruno Galland	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2926909	Bruno Neveu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2934867	Camille Bloch	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2941994	Catherine Massip	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2958006	Ernest de Fréville	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2958509	Charles Beauquier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2958598	Charles Bourel de La Roncière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2958663	Charles Bémont	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2959029	Charles Eudes Bonin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2959766	Charles Marty-Laveaux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2959858	Charles Mortet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2959969	Charles Perrat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2959978	Charles Petit-Dutaillis	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2960047	Charles Portal	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2960185	Charles Samaran	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2960585	Charles de Grandmaison	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2960618	Charles de Lasteyrie	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2960683	Charles de Robillard de Beaurepaire	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2965963	Christine Nougaret	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2977199	Claude Cochin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q2977325	Claude Dulong	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3000448	Paul Durrieu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3010095	Célestin Port	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3011800	Valérie Mangin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3013642	Daniel Alcouffe	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3013726	Daniel Bernard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3014988	Danielle Elisseeff	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3014992	Danielle Gaborit-Chopin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3023010	Denise Bernot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3023045	Denise Humbert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3027140	Didier Ozanam	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3034329	Dom Gréa	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3035511	Dominique Varry	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3047520	Edgard Boutaric	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3047719	Edmond-René Labande	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3056803	Joseph Tardif	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3056833	Ernest Babelon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3056903	Ernest Coyecque	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3057005	Ernest Hildesheimer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3057041	Ernest Laurain	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3059981	Eugène Lefèvre-Pontalis	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3060243	Eugène de Robillard de Beaurepaire	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3060246	Eugène de Rozière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3069048	Fernand Benoit	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3069065	Fernand Bournon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3081674	Francis Salet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3082628	Frank Giroud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3084530	François Dupuigrenet Desroussilles	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3084576	François Eygun	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3085002	François de Vaux de Foletier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3086159	François de Clermont-Tonnerre	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3086514	Françoise Hildesheimer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3086627	Françoise Waquet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3089925	Frédéric Joüon des Longrais	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3092386	Félix Bourquelot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3092455	Félix Grat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3092589	Félix Reynaud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3092592	Félix Rocquain	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3093731	Gabriel Esquer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3093772	Gabriel Henriot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3291312	Marianne Mahn-Lot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3291511	Marie-Anne Chabin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3291723	Marie-Claude Guigue	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3292118	Marie-Madeleine Martin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3292283	Marie-Thérèse d'Alverny	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3293111	Étienne Charavay	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3293561	Mario Schiff	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3293856	Marius Sepet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3295243	Martial Delpit	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3300516	Maurice Caillet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3301297	Maurice Prou	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3308875	Michel Antoine	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3309525	Michel Duchein	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3309634	Michel Fleury	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3309670	Michel François	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3310336	Michel Melot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3311147	Michel de Boüard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3320909	Monique Pelletier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3341054	Nicole Gotteri	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3345898	Noël Valois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3348837	Octave Join-Lambert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3351082	Olivier Guyotjeannin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3351290	Olivier Poncet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3367657	Pascale Bourgain	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3370238	Paul-André Lemoisne	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3370333	Paul-Louis Grenier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3370706	Paul Boudet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3370861	Paul Chevreux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3370932	Paul Cornu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3371051	Paul Deschamps	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3371226	Paul Fournier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3371604	Paul Lacombe	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3371955	Paul Parfouru	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3372077	Paul Raymond	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3384053	Pierre Boisard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3384295	Pierre Caron	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3384881	Pierre Durye	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3385482	Pierre Héliot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3385914	Pierre Lelièvre	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3386153	Pierre Marot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3386671	Pierre Pradel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3387719	Pierre de Vaissière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3419136	Raoul Busquet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3420767	Raymond Collier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3420797	Raymond Delatouche	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3421078	Raymond Oursel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3425714	René-Norbert Sauvage	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3426379	René Héron de Villefosse	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3426626	René Merlet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3427057	René de Lespinasse	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3434784	Robert de Lasteyrie	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3435854	Robert Marichal	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3439046	Roger Grand	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3455802	Régis de Saint-Jouan	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3479345	Serge Gruzinski	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3484628	Simone de Saint-Exupéry	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3507265	Sylvie Aubenas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3524209	Thierry Delcourt	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3524504	Thierry Sarmant	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3527352	Thérèse Kleindienst	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3557464	Victor Mortet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3570642	Xavier Dectot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3571703	Yann Sordet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3573413	Yves-Marie Bercé	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3573504	Yves Bottineau	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3573913	Yves Pérotin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3574188	Yvonne Deslandres	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3579189	Édith Thomas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3579729	Édouard Baratier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3588284	Émile-Guillaume Léonard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3588522	Émile Gabory	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3588648	Émile Maruéjouls	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3588656	Émile Maupas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3588664	Émile Molinier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3588710	Émile Raunié	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3592368	Étienne Taillemite	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3592377	Étienne Trocmé	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q5605111	Paul Cauwès	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q5617172	Rodolphe Dareste de La Chavanne	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q6453661	Kéda Black	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q6548057	Lilli Gjerløw	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q7125916	Henry Lemonnier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8299181	Adrien Planchenault	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8304585	Jules Lair	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8313632	Édouard Philipon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8320043	Émile Dacier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8327414	Robert Avezou	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8328866	Eugène Rendu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q8340353	Georges Weill	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q11906129	Vladimír Klecanda	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q11983324	Lars Otto Grundt	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q12735144	Matei Cazacu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q14637478	Jean Porcher	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15076223	Pierre Courcelle	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15406978	Léonce Celier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15407315	Jean-François Le Nail	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15407386	Eugène Hubert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15407466	Henri Waquet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15407867	Barthélemy-Amédée Pocquet du Haut-Jussé	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15449654	Bruno Durand	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3093918	Gabriel Pérouse	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3100588	Geneviève Aclocque	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3100605	Geneviève Bresc-Bautier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3102349	Georges Bourgin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3102826	Georges Guigue	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3103331	Georges Philippon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3105811	Gilbert Ouy	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3106601	Gilles Éboli	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3119691	Guillaume Bodinier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3121174	Gustave Dupont-Ferrier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3121183	Gustave Fagniez	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3121538	Guy Beaujouan	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3124207	Gérard Naud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3130376	Henri-François Buffet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3130381	Henri-François Delaborde	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3130713	Henri Bouchot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3130727	Henri Bourde de La Rogerie	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3131532	Henri Léonard Bordier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3131723	Henri Omont	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3131814	Henri Polge	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3131998	Henri Sculfort	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3132135	Henri Vendel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3132261	Henri de Flamare	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3132284	Henri de L'Épinois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3132567	Henry d'Allemagne	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3142044	Hubert Landais	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3142496	Hugues-Jean de Dianous	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3153988	Inès Villela-Petit	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3154997	Isabelle Neuschwander	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3156083	Ivan Cloulas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3157801	Jacqueline Sanson	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3158250	Jacques Berlioz	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3159084	Jacques Haumont	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3160079	Jacques Thirion	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3162060	Jannic Durand	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3163743	Jean-Auguste Brutails	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3165265	Jean-Claude Waquet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3165571	Jean-François Delmas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3165737	Jean-François Lemarignier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3167429	Jean-Marc Léri	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3168067	Jean-Michel Leniaud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3168950	Jean-Pierre Babelon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3170182	Jean-Yves Mariotte	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3170204	Jean-Yves Sarazin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3170286	Jean Adhémar	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3170409	Jean Argeliès	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3170484	Jean Babelon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3171454	Jean Coural	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3172319	Jean Glénisson	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3172563	Jean Hubert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3173244	Jean Longnon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3173334	Jean Mallon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3173427	Jean Martin-Demézil	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3174316	Jean Richard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3174936	Jean Vallery-Radot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3175018	Jean Vezin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3175110	Jean Wirth	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3175632	Jean de Pange	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3175983	Jeanne Bignami-Odier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3176091	Jeanne Laurent	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3184611	Joseph Billioud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3185020	Joseph Girard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3185289	Joseph Macquart de Terline	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3185514	Joseph Poux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3188522	Jules Delahaye	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3188544	Jules Doinel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3188771	Jules Mathorez	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3188917	Jules Soury	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3189000	Jules de Pétigny	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3189524	Julien Havet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3218744	Laure Beaumont-Maillet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3219010	Laurent Avezou	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3260482	Louis-François-Xavier Rédet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3260563	Louis-Gilles Pairault	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3261425	Louis Carolus-Barré	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3261716	Louis Desgraves	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3261751	Louis Douët d'Arcq	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3261827	Louis Duval	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3261868	Louis Farges	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3262030	Louis Germain-Martin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3262419	Louis Lacour de La Pijardière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3262647	Louis Martin-Chauffier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3262846	Louis Passy	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3263525	Louis de Mas Latrie	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3265273	Lucie Favier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3265698	Lucien Romier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3266138	Ludovic Lalanne	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3270624	Léon-Honoré Labande	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3271108	Léon Lacabane	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3271156	Léon Levillain	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3271194	Léon Maître	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3271205	Léon Mirot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3271595	Léonce Lex	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3275671	Madeleine Laurain-Portemer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3287827	Marc Bompaire	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3288382	Marc Sanson	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3288405	Marc Smith	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3288649	Marcel Baudot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3288956	Marcel Fournier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q3289306	Marcel Poëte	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15556338	René Bargeton	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15689791	Bertrand Jestaz	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15940746	Émile Alglave	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15961765	Eugène Aubry-Vitet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15969998	Germain Lefèvre-Pontalis	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15970875	François Chevalier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15970936	André Vaquier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15973363	Marc Thibout	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15973461	Alexandre Tuetey	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15973616	Jacques Bénet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q15973860	Amédée de Bourmont	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16025631	Paul Dugueyt	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16025779	Alfred Giraud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16025977	Louis Lefoullon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16038597	Raphaële Mouren	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16222795	Georges Tessier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16222825	Émile Dermenghem	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16260396	René de La Coste-Messelière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16265637	Françoise Woimant	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16267257	Élisabeth Gautier-Desvaux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16335955	Édouard Clunet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16536534	Catherine Bertho-Lavenir	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16615765	Théophile Dufour	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16679905	Thierry Crépin-Leblond	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16855647	Louis Demaison	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16862516	Jules Viard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16909603	Étienne Fels	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16912274	Jules Flammermont	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q16916470	Charles Tranchant	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q17350079	Charles Baudon de Mony	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q17350591	Olivier Gabet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q17626172	Édouard Le Danois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q17629021	Georges Tholin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q17977174	Pierre Thomas-Lacroix	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18115478	Lucien Merlet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18115496	André de Maricourt	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18172345	André Papinot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18391520	Jean Rigault	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18509073	Hippolyte Cocheris	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18578072	Louis Blancard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q18744706	Jules Delpit	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19266265	Maurice Oudot de Dainville	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19543945	Bertrand de Broussillon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19606616	Françoise Banat-Berger	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19630162	Gabriel de Mun	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19631311	Sophie Jugie	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19952591	Auguste Picard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q19956440	Alfred Leroux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q20011871	Joseph Couraye du Parc	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q20203356	Maxime Auguste-Vitu	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q20556667	Cécile Pozzo di Borgo	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q20851391	Jacques Meurgey de Tupigny	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q20961921	Agnès Marcetteau-Paul	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q21401806	Gilette Ziegler	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q21733379	Melchior de Polignac	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q21937977	Henri Deloncle	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q22812367	Nicolas Karapidakis	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q22939964	Jean Daridan	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q22996017	Jean Ebersolt	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q23446593	Ernest Clerc de Landresse	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q24276091	Roland Delachenal	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q24928733	Dominique Versavel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q24935589	Caroline Giron-Panel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q24937289	René de Maulde-La Clavière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q25391761	Danielle Jacquart	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q25496816	Paul Klein	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q25712297	Michelle Bubenicek	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q25932222	Eugène Déprez	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q26178941	Auguste Le Sourd	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q26460027	Charles-Éloi Vial	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q26954685	Élie Berger	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q27535600	Suzanne d'Huart	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q27661799	Michel Durrmeyer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q27834811	Cédric Giraud	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28034989	Denise Hillard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28166085	Nicole Felkay	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28543803	François Ploton-Nicollet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28548090	Christophe Gauthier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28552605	Adolphe Edmond Dieudonné	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28587084	André Lesort	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28653124	Jean Virey	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28654089	Marius Barroux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28657174	Eugène-Humbert Guitard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28728353	François Burckard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28732963	Charles Oursel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28739903	Georges Espinas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28772035	Patrick Arabeyre	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28777003	Frédéric Duval	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28803059	Vincent Haegele	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28822713	Paul Le Cacheux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28837187	Bernard de Mandrot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28845571	Pierre Daudet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28845813	Félix Aubert	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28845992	Henri Courteault	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28846011	Henri de Manneville	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28846106	Frédéric Soehnée	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28848574	Henri Lemaître	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28849174	Camille Couderc	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28856691	Dominique de Courcelles	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28920302	Joseph de Laborde	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28920319	Eugène Lelong	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28942570	Joseph Vaësen	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q28943644	Guy-Michel Leproux	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q29515305	Henri Moranvillé	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q29896507	Noël Thiollier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q30002221	Laurent Vissière	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q30058691	Colette Meuvret	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q30062526	Marie-Lise Tsagouria	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q30246089	Hélène Frémont	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q30332130	Jean de La Monneraye	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q33178442	François Souchal	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q33695383	Pierre Boyer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q33825322	André Delmas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34060124	Gustave-Euphranor Marin-Darbel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34657887	Camille Rivain	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34777800	Xavier Bonnault d'Houet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34780512	Félix Martel	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34786278	Armand d'Herbomez	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34786477	Léon Pajot	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34795650	Émile Coüard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34796613	Auguste Giraudin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34796963	Jean Kaulek	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34797236	Henri Loriquet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34797859	Raymond Teulet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q34816135	Léon Le Grand	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q35023956	Maurice Jusselin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q35026461	Raymond Houdayer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q35108455	Charles Valois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q35118120	Pierre-François Fournier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q35127600	Eugène Berger	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q35229518	Étienne Delcambre	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36205302	Michel Denieul	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36210511	Mireille Lombard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36216976	Jacques Yvon	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36322618	Pierre Duparc	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36369571	Françoise Bibolet	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36369926	Léonce Bouyssou	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36370209	Josette Metman	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36386000	Marcel Thomas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36390157	François Villard	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36459081	Paul Bouteiller	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36459701	Marie-Thérèse Chabord	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36460721	Léon de Groër	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36462694	Jean-Jacques Letrait	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36476968	Georgette de Groër	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36481218	Françoise Le Monnier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36483293	Henri Hemmer	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q36484267	Monique Langlois	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q38240393	Sylvio De Franceschi	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41710173	Claire Giordanengo	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41961995	Solenne Lepage	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41969348	Claudine Renou-Fages	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41986048	Catherine Laurent	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41986619	Armelle Daumas	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41987084	Nicolas Roche	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41987589	Alexis Rinckenbach	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41987983	Sylvain Riquier	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41988426	Philippe Barbat	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q41988861	Anastasia Iline	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q42014684	François Cousin	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q42315456	Olivier de Solan	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q42663317	Léon Schneider	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q42663431	René de Vaulchier du Deschaulx	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q42663534	Antoine Laget	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q42663669	Alfred Barbeu du Rocher	wdt:P69	wd:Q273570	Scolarité	Ecole Nationale des Chartes
+wd:Q922350	Henri-Jean Martin	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q1245518	Paul Meyer	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q1338383	Emmanuel Poulle	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2156245	Robert-Henri Bautier	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2408040	Jules Quicherat	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2497623	Michel Pastoureau	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2850174	Anita Guerreau-Jalabert	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2865116	Arthur Giry	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2871321	Auguste Molinier	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2897484	Bernard Barbiche	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2926731	Bruno Delmas	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2926789	Bruno Galland	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2959858	Charles Mortet	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q2965963	Christine Nougaret	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3121174	Gustave Dupont-Ferrier	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3263525	Louis de Mas Latrie	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3301297	Maurice Prou	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3351082	Olivier Guyotjeannin	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3351290	Olivier Poncet	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3367657	Pascale Bourgain	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3386153	Pierre Marot	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3439046	Roger Grand	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q3571703	Yann Sordet	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q19606616	Françoise Banat-Berger	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q28548090	Christophe Gauthier	wdt:P108	wd:Q273570	Employeur	Ecole Nationale des Chartes
+wd:Q310791	Jules Michelet	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q2861197	Ariane James-Sarazin	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q3269422	Léon de Laborde	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q16862516	Jules Viard	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q23607567	Jacques Pierre Coru-Sarthe	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q28845992	Henri Courteault	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q34657887	Camille Rivain	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q35821492	Gabrielle Vilar	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q36484267	Monique Langlois	wdt:P108	wd:Q182542	Employeur	Archives Nationales
+wd:Q240788	Edme François Jomard	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q545045	Jacques-Joseph Champollion	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q673718	Rémi Mathis	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q860169	Charles Athanase Walckenaer	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q979783	Charles Thévenin	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q2206419	Louis Courajod	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q2377429	Maxime Préaud	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q2827011	Agnès Saal	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q2861197	Ariane James-Sarazin	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q3060050	Eugène Morel	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q3170204	Jean-Yves Sarazin	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q3380639	Philippe Roberts-Jones	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q4156450	Robert Devreesse	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q15710805	Sylviane Tarsot-Gillery	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q15973860	Amédée de Bourmont	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q16862516	Jules Viard	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q20011871	Joseph Couraye du Parc	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q25931580	Charles Astruc	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q28849174	Camille Couderc	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q28945134	Paulette Pétras	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q35852527	Florian Forestier	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q36487021	France Pascal	wdt:P108	wd:Q193563	Employeur	BNF
+wd:Q19606616	Françoise Banat-Berger	wdt:P108	wd:Q2860432	Employeur	Archives de Paris
+wd:Q3579857	Édouard Frère	wdt:P39	wd:Q635734	Fonction	Archiviste
+wd:Q28166085	Nicole Felkay	wdt:P39	wd:Q635734	Fonction	Archiviste
+wd:Q28822713	Paul Le Cacheux	wdt:P39	wd:Q635734	Fonction	Archiviste
+wd:Q1495297	Jules Guiffrey	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1559057	Gérard de Montaigu der Ältere	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1684704	Jean-Bernard Mary-Lafon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1684718	Jean-Charles Roman d'Amat	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1872129	Louise-Noëlle Malclès	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1873427	Lucien Sittler	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1874143	Louis Spach	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1960293	Émile Campardon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2156245	Robert-Henri Bautier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2399285	Georges de Manteyer	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2606667	Charles-Victor Langlois	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2829780	Alain Erlande-Brandenburg	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2830756	Alban Cerisier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2831331	Albert Lecoy de La Marche	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2834077	Alexandre Teulet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2847061	André-Joseph-Ghislain Le Glay	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2847277	André Berthier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2848060	André Lacroix	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2865116	Arthur Giry	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2897426	Bernard Alart	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2899549	Bertrand Gille	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2920822	Pierre-François Hugues d'Hancarville	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2926731	Bruno Delmas	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2926789	Bruno Galland	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2935046	Camille Ragut	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2960047	Charles Portal	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2960185	Charles Samaran	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2960683	Charles de Robillard de Beaurepaire	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2965963	Christine Nougaret	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3010095	Célestin Port	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3047719	Edmond-René Labande	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3050950	Elie Brun-Lavainne	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3057005	Ernest Hildesheimer	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3057041	Ernest Laurain	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3069065	Fernand Bournon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3085002	François de Vaux de Foletier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3086514	Françoise Hildesheimer	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3093918	Gabriel Pérouse	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3102826	Georges Guigue	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3103225	Georges Monval	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3104102	Germain Demay	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3121183	Gustave Fagniez	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3121251	Gustave Macon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3124207	Gérard Naud	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3130376	Henri-François Buffet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3130381	Henri-François Delaborde	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3130487	Henri Affre	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3130727	Henri Bourde de La Rogerie	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3131814	Henri Polge	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3132091	Henri Tribout de Morembert	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3132261	Henri de Flamare	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3142496	Hugues-Jean de Dianous	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3154997	Isabelle Neuschwander	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3165571	Jean-François Delmas	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3166566	Jean-Julien Barbé	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3170182	Jean-Yves Mariotte	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3170216	Jean-Yves de Saint-Prest	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3170452	Jean Augustin Sénemaud	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3184611	Joseph Billioud	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3184612	Joseph Bisson	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3188544	Jules Doinel	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3260482	Louis-François-Xavier Rédet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3260563	Louis-Gilles Pairault	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3261751	Louis Douët d'Arcq	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3261868	Louis Farges	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3265273	Lucie Favier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3270624	Léon-Honoré Labande	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3271194	Léon Maître	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3271205	Léon Mirot	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3271595	Léonce Lex	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3288649	Marcel Baudot	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3291511	Marie-Anne Chabin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3291552	Marie-Armand d’Avezac de Castera-Macaya	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3291723	Marie-Claude Guigue	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3301297	Maurice Prou	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3302766	Maximilien Quantin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3308875	Michel Antoine	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3309525	Michel Duchein	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3309634	Michel Fleury	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3340860	Nicolas Viton de Saint-Allais	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3341054	Nicole Gotteri	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3345898	Noël Valois	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3370861	Paul Chevreux	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3371604	Paul Lacombe	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3371955	Paul Parfouru	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3371992	Paul Peyron	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3384295	Pierre Caron	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3384881	Pierre Durye	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3387719	Pierre de Vaissière	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3419136	Raoul Busquet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3420767	Raymond Collier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3421078	Raymond Oursel	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3435854	Robert Marichal	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3439046	Roger Grand	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3455802	Régis de Saint-Jouan	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3490415	Sonia Combe	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3524504	Thierry Sarmant	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3526455	Théodore Leuridan	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3564361	Véronique Roy	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3573913	Yves Pérotin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q127275	Auguste Longnon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q137599	Marianne Mulon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q178991	Pierre-Claude-François Daunou	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q199985	Arthur de La Borderie	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q279425	Natalis de Wailly	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q286485	Léon Gautier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q289303	Étienne Arago	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q310791	Jules Michelet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q318468	Abel Lefranc	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q378684	Eugène Goyheneche	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q450310	Jean-Louis Tauran	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q549841	Jean Favier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q587038	Antoine Thomas	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1114324	Paul Guillaume	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1187395	Denis Godefroy	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1216036	Paul Viollet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1338383	Emmanuel Poulle	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1386130	Marguerite Verdat	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1441778	Francis Wey	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1456238	Gustave Servois	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q648584	Eugène Tisserant	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q677472	Armand-Gaston Camus	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q743493	Siméon Luce	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q745858	Henri Langlois	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q867952	Henri Stein	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q947276	Charles Nuitter	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q978749	Henri d'Arbois de Jubainville	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q1063803	Charles Braibant	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q21733379	Melchior de Polignac	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q22134539	Auguste Matton	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q24276091	Roland Delachenal	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q25932222	Eugène Déprez	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q26178941	Auguste Le Sourd	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q26213085	Arthur de Boislisle	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15407315	Jean-François Le Nail	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15407386	Eugène Hubert	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15449654	Bruno Durand	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15727649	Amable Regnault	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15763448	Louis-Philippe May	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15969998	Germain Lefèvre-Pontalis	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q15973461	Alexandre Tuetey	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q16222825	Émile Dermenghem	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q16260396	René de La Coste-Messelière	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q16267257	Élisabeth Gautier-Desvaux	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q16862516	Jules Viard	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q17629021	Georges Tholin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q17977174	Pierre Thomas-Lacroix	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18011794	Henri Beaudouin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18115456	François-César Louandre	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18115478	Lucien Merlet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18510341	Asrail Gourevitch	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18578072	Louis Blancard	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18600895	Louis Schneegans	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q18744954	Ernest Roschach	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q19266265	Maurice Oudot de Dainville	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q19606616	Françoise Banat-Berger	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q19956440	Alfred Leroux	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q20789764	Lucien Lambeau	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q21043236	Sarah Toulouse	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q27535600	Suzanne d'Huart	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q27788724	Marcelle Campana	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q27914575	Léon Maupillé	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28038995	Émile Jolibois	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28476099	Yann Potin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28563882	Amable de Sablon du Corail	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28587084	André Lesort	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28654089	Marius Barroux	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28723376	Alice Garrigoux	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28728353	François Burckard	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28729053	Jean Burias	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28822713	Paul Le Cacheux	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q28916714	Nicolas Buat	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q32860453	Max Bruchet	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q33695383	Pierre Boyer	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q33700091	Bernard Savouret	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q33823809	Rémi Mathieu	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q33878194	Eugène Chatel	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q33879393	Henri Duplès-Agier	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34007588	Dominique-Claude Boisserand	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34011476	Alfred Schweighaeuser	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34013771	Étienne Héron de Villefosse	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34024663	Sainte-Marie Mévil	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34029797	André Salmon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34032365	Charles Alleaume de Cugnon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34034949	Jules Marion	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34041255	Léon Aubineau	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34041910	Augustin Deloye	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34052622	Gabriel Eisenbach	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34058284	Paul Marchegay	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34062195	Louis Boca	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34063031	Marie-Bernard Bernhard	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34067897	Louis Hugot	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34644248	Jules Rimasson	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34648435	André Laudy	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34802691	Léon Lecestre	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34816135	Léon Le Grand	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q34838434	Joseph Souchon	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35140434	Pierre Piétresson de Saint-Aubin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35162580	Lucien Metzger	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35229518	Étienne Delcambre	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35229749	Joseph Despont	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35231741	Charles Brouard	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35237751	Anne Baudot	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35244817	Yvonne Bezard	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q35250596	Michel Le Grand	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q38151825	Yves Soulingeas	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q44949043	Charles Aubépin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3579189	Édith Thomas	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3579824	Édouard Ducéré	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3588349	Émile Biais	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3588522	Émile Gabory	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3592368	Étienne Taillemite	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q3998414	Jean Passy	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q4282498	Henry Marie Radegonde Martin	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q8327414	Robert Avezou	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q8340353	Georges Weill	wdt:P106	wd:Q635734	Occupation	Archiviste
+wd:Q2826973	Agnès Callu	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q2847624	André Delpuech	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q2851241	Anne Pingeot	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q3109280	Jean Clottes	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q3385922	Pierre Lemoine	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q14626534	Laurence des Cars	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q15407461	Sophie Makariou	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q15407464	Sylvie Ramond	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q20966423	Alfred Pacquement	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q21791506	Catherine Arminjon-Roesch	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q22910673	Malou Schneider	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q24050936	Anne-Marie de Brem	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q24807487	Yves Le Fur	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q25308266	Françoise Mardrus	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q27919929	Sébastien Delot	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q28563882	Amable de Sablon du Corail	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q29862605	Jean-Jacques Rioult	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q30105490	Marie-Laure de Rochebrune	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q43260360	Catherine Cuenca	wdt:P106	wd:Q2994440	Occupation	Conservateur du Patrimoin
+wd:Q962402	Philarète Chasles	wdt:P39	wd:Q2994439	Fonction	Conservateur des Bibliothèques
+wd:Q1607626	Paul Lacroix	wdt:P39	wd:Q2994439	Fonction	Conservateur des Bibliothèques
+wd:Q1872012	Louis Ulbach	wdt:P39	wd:Q2994439	Fonction	Conservateur des Bibliothèques
+wd:Q3083617	François-Philippe Gourdin	wdt:P39	wd:Q2994439	Fonction	Conservateur des Bibliothèques
+wd:Q30058691	Colette Meuvret	wdt:P39	wd:Q2994439	Fonction	Conservateur des Bibliothèques
+wd:Q30062526	Marie-Lise Tsagouria	wdt:P39	wd:Q2994439	Fonction	Conservateur des Bibliothèques
+wd:Q678078	Armand d’Artois	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q860169	Charles Athanase Walckenaer	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q2377429	Maxime Préaud	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q2831510	Albert Ronsin	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q3093853	Gabriel Marcel	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q3130713	Henri Bouchot	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q3170286	Jean Adhémar	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q3310336	Michel Melot	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q3490415	Sonia Combe	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q17497079	Thierry Giappiconi	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q20743254	Yves Alix	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q21192403	Frédéric Blin	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q46029250	Hugues-Adrien Joly	wdt:P106	wd:Q2994439	Occupation	Conservateur des Bibliothèques
+wd:Q2257450	Françoise Adret	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q2848722	André Tubeuf	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q3035233	Dominique Jamet	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q3102548	Georges Danion	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q3109280	Jean Clottes	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q21030683	Marc Bayard	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q28934150	Jean-François Baldi	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q28934181	Anne Magnant	wdt:P108	wd:Q384602	Employeur	Ministère de la Culture
+wd:Q108628	Wilhelm Fröhner	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q338430	Wonder Woman	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q544531	Germain Bazin	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q2206419	Louis Courajod	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q2851241	Anne Pingeot	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q3167394	Jean-Marc Irollo	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q3559798	Vincent Pomarède	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q19754068	Paul Vitry	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q22212277	Gaston Migeon	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q24237559	Guillaume Kientz	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q28859818	Blaise Ducos	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q28945134	Paulette Pétras	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q41751261	Jobson Paradis	wdt:P108	wd:Q19675	Employeur	Musée de Louvre
+wd:Q34208240	Geneviève Contamine	wdt:P108	wd:Q1664768	Employeur	IRHT
