@@ -5,8 +5,8 @@ Introduction aux Linked Open Data
 =================================
 
 <small>Thibault Clérice, 
-Responsable Pédagogique du Master TNAH,
-thibault.clerice@enc-sorbonne.fr</small>
+Responsable pédagogique du Master TNAH,
+thibault.clerice@chartes.psl.eu</small>
 
 <small><small>D'après Blaney Jonathan, *Introduction to the Principles of Linked Open Data*, ProgrammingHistorian.org, eds. Adam Crymble</small></small>
 
@@ -46,7 +46,7 @@ Sur Perseus : http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2007
 
 ## Europeana
 
-Europeana est un projet européen de bibliotèque numérique en ligne.
+Europeana est un projet européen de bibliothèque numérique en ligne.
 
 ![](europeana.png)
 
@@ -197,7 +197,7 @@ devient
 
 ---
 
-## Ecrire dans un format standard : Turtle
+## Écrire dans un format standard : Turtle
 
 *Terse RDF Triple Language*
 
@@ -210,7 +210,7 @@ devient
 ```
 ---
 
-## Ecrire dans un format standard : Turtle
+## Écrire dans un format standard : Turtle
 
 ```turtle
 @prefix dc: <http://purl.org/dc/elements/1.1/>
