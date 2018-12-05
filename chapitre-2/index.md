@@ -8,24 +8,13 @@ Chapitre 2 : La question de la modélisation et du choix des ontologies
 
 # Résultats des devoirs :
 
-287 triplets conservés sur l'ensemble fourni
+151 triplets conservés sur l'ensemble fourni
 
 ---
 
 # Erreurs communes
 
-## 1 Les dates et objets de référentiels n'ont pas de langue
-
-| Sujet  | Prédicat | Objet |
-| ------ | -------- | ----- |
-| viaf:100226923 | schema:deathDate | 120 |
-| viaf:286265178 | dbpedia:Victory | viaf:18018702 |
-
----
-
-# Erreurs communes
-
-## 2 Attention à l'ordre des triplets
+## 1 Attention à l'ordre des triplets
 
 http://dbpedia.org/ontology/residence
 
@@ -44,7 +33,7 @@ domain = Person, range = Place signifie que la personne sera sujet
 
 # Erreurs communes
 
-## 3 Les dates en chiffres
+## 2 Le problème de normalisation des dates
 
 | Valide | Sujet  | Prédicat | Objet |
 | ------ | ------ | -------- | ----- |
@@ -52,13 +41,15 @@ domain = Person, range = Place signifie que la personne sera sujet
 | Oui | viaf:286265178 | schema:deathDate | 12/120|
 | Oui | viaf:286265178 | schema:deathDate | 12/-120|
 | Oui | viaf:286265178 | schema:deathDate | 15/12/-120 |
-| None | viaf:286265178 | schema:deathDate | Déc 120 |
+| Non | viaf:286265178 | schema:deathDate | Déc 120 |
 
 ---
 
 # Erreurs communes
 
-## 4 Utilisation d'objet en propriété
+## 3 Utilisation d'objet en propriété
+
+schema:Occupation -> schema:hasOccupation
 
 | Sujet  | Prédicat | Objet |
 | ------ | -------- | ----- |
@@ -82,7 +73,7 @@ https://www.wikidata.org/wiki/Property:P53
 
 # Résultat
 
-https://ponteineptique.github.io/latin-lod/web_session
+https://ponteineptique.github.io/latin-lod/2018
 
 ---
 
